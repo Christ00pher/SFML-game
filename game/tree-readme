@@ -1,0 +1,13 @@
+Hej Krzysiek!
+Pokazuje co dany plik zalacza do siebie...
+
+
+-main.cpp
+	-engine.cpp
+	-engine.h
+
+
+-engine.h
+	-objects.h
+
+	
